@@ -1,2 +1,2 @@
 # FastLED
-FastLED files for Arduino and LED light strips
+ Sketches for Arduino Due and LPD8806 LED light strips, using FastLED Library
