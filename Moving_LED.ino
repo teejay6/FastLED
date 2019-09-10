@@ -14,7 +14,7 @@
 #define DATA_PIN 3
 #define CLOCK_PIN 13
 
-//Correct LPD8806 for Color Order
+// Correct LPD8806 for Color Order
 #define COLOR_ORDER GRB
 
 // Define the array of LEDs
